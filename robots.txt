@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-f535g4.salamcuanwin.xyz/sitemap.xml
